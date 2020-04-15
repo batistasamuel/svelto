@@ -1,0 +1,13 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://globoesporte.globo.com/futebol/times/cruzeiro/noticia/em-recuperacao-de-lesao-no-cruzeiro-dede-se-sensibiliza-por-desabafo-de-pedrinho-por-mais-que-debochem-nao-vou-desistir.ghtml",
+  "friendlyName": "Campanha66",
+  "category": "lançamento",
+  "startDate": "2020-04-14",
+  "endDate": "2020-04-16",
+  "limitVisits": 10, 
+  "expByVisitNumber": true,
+  "expByTimePeriod": true
+}
