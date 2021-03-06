@@ -19,7 +19,7 @@ npm start
 ## Endpoint to use short url
 
 ### GET baseUrl/:friendlyCode (BASIC STRUCTURE)
-### examble
+### example
 http://localhost:5000/Campanha12-hH1okjV6A
 
 ## Endpoint to create short url
