@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.9.9",
     "phantom": "^6.3.0",
-    "sharp": "^0.25.2",
+    "sharp": "^0.30.5",
     "shortid": "^2.2.14",
     "valid-url": "^1.0.9"
   },
